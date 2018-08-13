@@ -1,3 +1,2 @@
 # hello-my-world
-just another depository for happiness to everyon
-Меня зовут Екатерина. Я преподаватель в ВУЗе. Есть супруг и сын. Я счаслива и любима. хОчу открыть свой бизнес и видеть, как растет мой сын, наслаждаясь жтзнью.
+just another depository for happiness to everyone
